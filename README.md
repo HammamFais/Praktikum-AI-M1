@@ -1,12 +1,15 @@
 # 🤖 Praktikum AI - M1 Representasi Pengetahuan
 
-**Nama:** Hammam Hidayatullah
-**Nrp:** 3124600096
-**Program Studi:** D4 Teknik Informatika 🎓
-**Institusi:** Politeknik Elektronika Negeri Surabaya (PENS)
-**Mata Kuliah:** Praktikum Kecerdasan Buatan
-**Dosen:** Dr. Tita Karlita S.Kom., M.Kom
+| | |
+|---|---|
+| **Nama** | Hammam Hidayatullah |
+| **NRP** | 3124600096 |
+| **Program Studi** | D4 Teknik Informatika 🎓 |
+| **Institusi** | Politeknik Elektronika Negeri Surabaya (PENS) |
+| **Mata Kuliah** | Praktikum Kecerdasan Buatan |
+| **Dosen** | Dr. Tita Karlita S.Kom., M.Kom |
 
+---
 ---
 
 ## 📖 Deskripsi

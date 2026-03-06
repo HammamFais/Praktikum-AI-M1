@@ -8,7 +8,7 @@
 | **Institusi** | Politeknik Elektronika Negeri Surabaya (PENS) |
 | **Mata Kuliah** | Praktikum Kecerdasan Buatan |
 | **Dosen** | Dr. Tita Karlita S.Kom., M.Kom |
-|---|---|
+| | |
 
 ---
 ---

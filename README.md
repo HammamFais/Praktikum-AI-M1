@@ -1,6 +1,7 @@
 # 🤖 Praktikum AI - M1 Representasi Pengetahuan
 
-**Nama:** Hammam Fais
+**Nama:** Hammam Hidayatullah
+**Nrp:** 3124600096
 **Program Studi:** D4 Teknik Informatika 🎓
 **Institusi:** Politeknik Elektronika Negeri Surabaya (PENS)
 **Mata Kuliah:** Praktikum Kecerdasan Buatan
